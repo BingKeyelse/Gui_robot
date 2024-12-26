@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>cil-link.png</file>
+    <file>cil-hand-point-down.png</file>
+    <file>cil-hand-point-up.png</file>
+    <file>cil-arrow-circle-bottom.png</file>
+    <file>cil-arrow-circle-left.png</file>
+    <file>cil-arrow-circle-right.png</file>
+    <file>cil-arrow-circle-top.png</file>
+    <file>cil-chart-line.png</file>
+    <file>cil-media-skip-backward.png</file>
+    <file>cil-media-skip-forward.png</file>
+    <file>cil-reload.png</file>
+    <file>eye (1).png</file>
+    <file>eye-crossed.png</file>
+    <file>icons/20x20/cil-loop-circular.png</file>
+    <file>icons/16x16/cil-lock-locked.png</file>
+  </qresource>
+</RCC>
